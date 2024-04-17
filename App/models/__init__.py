@@ -1,3 +1,3 @@
 from .user import *
-from .excercise import *
+from .exercise import *
 from .routine import *
